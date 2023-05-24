@@ -1,0 +1,12 @@
+# 用户的一些配置文件
+*.aps
+*.rc
+*.sln
+*.vcxproj
+*.filters
+*.user
+
+# 无用的文件夹
+.vs/
+x64/
+edit resources/
