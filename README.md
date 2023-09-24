@@ -25,4 +25,4 @@
 
 3. 在项目-属性-配置属性-高级-字符集中改为“使用多字节字符集”
 
-4. 游戏封装详见上一篇[利用Enigma Virtual Box进行封装](https://github.com/Wu-Jackie/Overwatch_fan-made_version_Minesweeper)
+4. 游戏封装详见上一篇[利用Enigma Virtual Box进行封装](https://github.com/Wu-Jackie/Overwatch_fan-made_version_Minesweeper#enigma-virtual-box%E7%9A%84%E4%BD%BF%E7%94%A8)
